@@ -64,3 +64,6 @@ class $(CCSprite) {
 		return sprite;
 	}
 };
+
+
+
